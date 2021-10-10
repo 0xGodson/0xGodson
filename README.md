@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-0xGodson-purple?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/0xgodson/)](https://instagram.com/0xgodson)
 [![Youtube Badge](https://img.shields.io/badge/-0xGodson-red?style=plastic-square&logo=youtube&logoColor=white&link=https://www.youtube.com/codingpotter)](https://www.youtube.com/)
 [![Twitter Badge](https://img.shields.io/badge/-0xGodson-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/codingpotter)](https://www.twitter.com/0xGodson_)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xgodson)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xGodson)
 
 
 ## Whoami
