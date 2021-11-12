@@ -11,8 +11,7 @@
 
 ## Whoami
 
-Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security. Quick Learner
-
+Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security. #DevSecOps
 
 - 🕸️ Web - AppSec 
 - 🌟 College Student
