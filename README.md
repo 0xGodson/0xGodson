@@ -31,6 +31,7 @@ Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security. #DevSecOps
 - [Attack JWT](https://hacklido.com/blog/322-hack-jwt)
 - [Some Authentication Bypass Methods](https://hacklido.com/blog/331-bypass-authentication/)
 - [Attacking Password Reset Pages](https://hacklido.com/blog/336-attacking-password-reset-pages/)
+- [Account takeover in million $ company?](https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb)
 <!-- BLOG-POST-LIST:END -->
 
 	
