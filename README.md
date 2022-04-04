@@ -13,10 +13,10 @@
 
 Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security. #DevSecOps
 
-- 🕸️ Web - AppSec 
+- 🕸️ Web Application Security Researcher 
 - 🌟 College Student
 - ⚡️ CTFer
-- 👨🏻‍💻 N00b
+- 👨🏻‍💻 Developer
 - 🔭 Open Source Enthusiastic
 
 
