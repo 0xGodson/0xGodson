@@ -11,12 +11,12 @@
 
 ## Whoami
 
-Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security. #DevSecOps
+Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security. 
 
 - 🕸️ Web Application Security Researcher 
+- 👨🏻‍💻 Developer
 - 🌟 College Student
 - ⚡️ CTFer
-- 👨🏻‍💻 Developer
 - 🔭 Open Source Enthusiastic
 
 
