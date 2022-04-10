@@ -33,6 +33,9 @@ Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security.
 - [Attack JWT](https://hacklido.com/blog/322-hack-jwt)
 - [Some Authentication Bypass Methods](https://hacklido.com/blog/331-bypass-authentication/)
 - [Attacking Password Reset Pages](https://hacklido.com/blog/336-attacking-password-reset-pages/)
+- [XSS via Abusing URL Parsers](https://0xgodson.me/blogs/2022-03-28-wcs-xss401/)
+- [Dom Clobbering to Define, Undefined Variables](https://0xgodson.me/blogs/2022-03-28-dom-clobbering/)
+- [Path Traversal In Python Application Via os.path.join()](https://0xgodson.me/blogs/2022-04-09-path-traversal-via-join/)
 <!-- BLOG-POST-LIST:END -->
 
 	
