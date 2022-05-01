@@ -29,6 +29,7 @@ Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security.
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploiting Blind SQL Injection (ORDER BY)](https://0xgodson.me/blogs/2022-05-01-blind-sqli/)
 - [Path Traversal In Python Application Via os.path.join()](https://0xgodson.me/blogs/2022-04-09-path-traversal-via-join/)
 - [Dom Clobbering to Define, Undefined Variables](https://0xgodson.me/blogs/2022-03-28-dom-clobbering/)
 - [XSS via Abusing URL Parsers](https://0xgodson.me/blogs/2022-03-28-wcs-xss401/)
