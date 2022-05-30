@@ -29,6 +29,7 @@ Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security.
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Blind XSS -> ZIP SLIP -> Check Bypass ->LFI](https://0xgodson.me/blogs/2022-05-23-zipslip/)
 - [Exploiting Blind SQL Injection (ORDER BY)](https://0xgodson.me/blogs/2022-05-01-blind-sqli/)
 - [Path Traversal In Python Application Via os.path.join()](https://0xgodson.me/blogs/2022-04-09-path-traversal-via-join/)
 - [Dom Clobbering to Define, Undefined Variables](https://0xgodson.me/blogs/2022-03-28-dom-clobbering/)
