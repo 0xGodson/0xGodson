@@ -12,7 +12,7 @@
 
 ## Whoami
 
-Hi, I am Godson. Just a Another Guy Have a passion in Cyber Security. 
+Hi, I am Godson. Exploring Web/Browser stuffs...
 
 - 🕸️ Web Application Security Researcher 
 - 👨🏻‍💻 Developer
