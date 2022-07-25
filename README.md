@@ -1,4 +1,3 @@
-<br>
 <a href="https://twitter.com/0xGodson_"><img align="center" src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif"/></a>
 
 ### Hi there 👋 I'am Godson 😼
@@ -26,6 +25,9 @@ Hi, I am Godson. Exploring Web/Browser stuffs...
 <img src="https://github-readme-stats.vercel.app/api?username=0xgodson&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xgodson"/>|
 |---|---|
 
+
+# Play My XSS Challenges: 
+- <a href="https://0xgodson.me/my-chals">All Challenges</a>
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
