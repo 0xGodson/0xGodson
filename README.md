@@ -27,7 +27,7 @@ Hi, I am Godson. Exploring Web/Browser stuffs...
 
 
 # Play My XSS Challenges: 
-- <a href="https://0xgodson.me/my-chals">All Challenges</a>
+- <a href="https://0xgodson.me/my-ctfs">All Challenges</a>
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
