@@ -39,8 +39,6 @@ Hi, I am Godson. Exploring Web/Browser stuffs...
 - [Dom Clobbering to Define, Undefined Variables](https://0xgodson.me/blogs/2022-03-28-dom-clobbering/)
 - [XSS via Abusing URL Parsers](https://0xgodson.me/blogs/2022-03-28-wcs-xss401/)
 - [Account takeover in million $ company?](https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb)
-- [Attack JWT](https://hacklido.com/blog/322-hack-jwt)
-- [Attacking Password Reset Pages](https://hacklido.com/blog/336-attacking-password-reset-pages/)
 <!-- BLOG-POST-LIST:END -->
 
 	
