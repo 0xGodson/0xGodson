@@ -13,10 +13,8 @@
 
 Hi, I am Godson. Exploring Web/Browser stuffs...
 
-- 🕸️ Web Application Security Researcher 
-- 👨🏻‍💻 Developer
-- 🌟 College Student
-- ⚡️ CTFer
+- 🕸️ WebApp / Browser Security
+- ⚡️ Another CTF enjoyer
 - 🔭 Open Source Enthusiastic
 
 
