@@ -35,7 +35,7 @@ Hi, I am Godson. Exploring Web/Browser stuffs...
 - [Exploiting Blind SQL Injection (ORDER BY)](https://0xgodson.me/blogs/2022-05-01-blind-sqli/)
 - [Path Traversal In Python Application Via os.path.join()](https://0xgodson.me/blogs/2022-04-09-path-traversal-via-join/)
 - [Dom Clobbering to Define, Undefined Variables](https://0xgodson.me/blogs/2022-03-28-dom-clobbering/)
-- [XSS via Abusing URL Parsers](https://0xgodson.me/blogs/2022-03-28-wcs-xss401/)
+- [Abusing URL Parser for XSS](https://0xgodson.me/blogs/2022-03-28-wcs-xss401/)
 - [Account takeover in million $ company?](https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb)
 <!-- BLOG-POST-LIST:END -->
 
