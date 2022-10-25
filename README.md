@@ -29,13 +29,13 @@ Hi, I am Godson. Exploring Web/Browser stuffs...
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [An Art of Dom Clobbering - Research](https://0xgodson.me/blogs/2022-07-21-art-of-dom-clobbering/)
-- [Prototype Pollution to Bypass XSS filters](https://0xgodson.me/blogs/2022-06-03-intigriti-may-chal/)
-- [Blind XSS -> ZIP SLIP -> Check Bypass ->LFI](https://0xgodson.me/blogs/2022-05-23-zipslip/)
-- [Exploiting Blind SQL Injection (ORDER BY)](https://0xgodson.me/blogs/2022-05-01-blind-sqli/)
-- [Path Traversal In Python Application Via os.path.join()](https://0xgodson.me/blogs/2022-04-09-path-traversal-via-join/)
-- [Dom Clobbering to Define, Undefined Variables](https://0xgodson.me/blogs/2022-03-28-dom-clobbering/)
-- [Abusing URL Parser for XSS](https://0xgodson.me/blogs/2022-03-28-wcs-xss401/)
+- [An Art of Dom Clobbering - Research](https://0xgodson.com/blogs/2022-07-21-art-of-dom-clobbering/)
+- [Prototype Pollution to Bypass XSS filters](https://0xgodson.com/blogs/2022-06-03-intigriti-may-chal/)
+- [Blind XSS -> ZIP SLIP -> Check Bypass ->LFI](https://0xgodson.com/blogs/2022-05-23-zipslip/)
+- [Exploiting Blind SQL Injection (ORDER BY)](https://0xgodson.com/blogs/2022-05-01-blind-sqli/)
+- [Path Traversal In Python Application Via os.path.join()](https://0xgodson.com/blogs/2022-04-09-path-traversal-via-join/)
+- [Dom Clobbering to Define, Undefined Variables](https://0xgodson.com/blogs/2022-03-28-dom-clobbering/)
+- [Abusing URL Parser for XSS](https://0xgodson.com/blogs/2022-03-28-wcs-xss401/)
 - [Account takeover in million $ company?](https://0xgodson.medium.com/account-takeover-in-million-company-report-rejected-whats-wrong-60041f1815fb)
 <!-- BLOG-POST-LIST:END -->
 
