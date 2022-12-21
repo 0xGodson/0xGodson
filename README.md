@@ -29,6 +29,7 @@ Hi, I am Godson. Exploring Web/Browser stuffs...
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writeup - Intigriti's Nov XSS Challenge](https://blog.0xgodson.com/2022-12-05-intigriti-nov-xss-challenge-writeup/)
 - [Author Writeup - Intigriti's October XSS Challenge](https://0xgodson.com/blogs/2022-10-14-intigriti-oct-xss-challenge-author-writeup)
 - [An Art of Dom Clobbering - Research](https://0xgodson.com/blogs/2022-07-21-art-of-dom-clobbering/)
 - [Prototype Pollution to Bypass XSS filters](https://0xgodson.com/blogs/2022-06-03-intigriti-may-chal/)
